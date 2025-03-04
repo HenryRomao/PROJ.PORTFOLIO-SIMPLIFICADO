@@ -75,7 +75,6 @@ body {
     font-family: "Ralewey", sans-serif;
     font-size: 24px;
     margin-bottom: 10px;
-    text-align: center;
 }
 
 span {
@@ -85,7 +84,6 @@ span {
 .home .midia-sociais {
     display: flex;
     gap: 20px;
-    justify-content: center;
 }
 
 .home .midia-sociais a i {
