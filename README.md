@@ -1,4 +1,4 @@
-# Meu Mini Portfólio.
+# Meu Portfólio Simples.
 
 ## Descrição 📝
 Um projeto para a criação de um portfólio para desenvolvedores iniciantes, com informações pessoais e links de redes sociais para contato proficional.
